@@ -1,27 +1,31 @@
 # Beau (Raymond Buford Dunavant IV)
 
-Currently building IRIS — a multi-agent framework designed to support resilient, regenerative cities through intelligent, decentralized planning.  
-
-My work blends machine learning, sustainability, finance, and ethics to reimagine how we live, build, and govern.
+_IRIS_Program_
 
 ---
 
-## Core Skills & Tools
-
-**Machine Learning & AI**  
-Python · Scikit-learn · TensorFlow · Time Series Forecasting · Multi-Agent Systems
-
-**Data Analytics & Visualization**  
-Pandas · Jupyter · Matplotlib · Streamlit · Prophet · SQL · Excel
-
-**Business & Financial Analysis**  
-Cap Rate Calculators · Cash Flow Models · Market Intelligence · Forecast Engines
-
-**Domain Knowledge**  
-Sustainable (Regenerative) Building Design and Construction · Real Estate · Off Grid Living · Ethical AI · Resilience Planning
-
-**Dev Tools**  
-Git · GitHub · VS Code
+_Python 
+_Scikit-learn
+_TensorFlow
+_Time Series Forecasting
+_Multi-Agent Systems
+_Pandas
+_Jupyter
+_Matplotlib
+_Streamlit
+_Prophet
+_Cap Rate Calculators
+_Cash Flow Models
+_Market Intelligence
+_Forecast Engines 
+_Sustainable (Regenerative) Building Design and Construction
+_Real Estate
+_Off Grid Living
+_Ethical AI
+_Resilience Planning  
+_Git
+_GitHub
+_VS Code
 
 ---
 
