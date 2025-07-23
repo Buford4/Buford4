@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Beau (Raymond Buford Dunavant IV)
+- Building the IRIS Multi-Agent Framework  
+- Passionate about sustainable cities, regenerative design, and ethical AI
 
-<!--
-**Buford4/Buford4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tools & Skills
+- Python, Scikit-learn, TensorFlow
+- Jupyter, Streamlit, Pandas, Matplotlib
+- Git, GitHub, VS Code
+- Real Estate, Finance, Business, Urban Planning, Sustainability
 
-Here are some ideas to get you started:
+## 🌍 Projects
+🔹 [IRIS Multi-Agent Framework](https://github.com/Buford4/iris-agent-framework) – AI agents for sustainable infrastructure  
+🔹 [Recovery ML Model](#) – Forecasting addiction recovery outcomes  
+🔹 [Real Estate Market Tools](#) – Cap rate calculators, STR analysis, dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/beau-dunavant-iv)
+- [Email](mailto:beau.dun4@gmail.com)
+- [GitHub Portfolio](https://github.com/Buford4)
+
+> ⚡ Building tech that regenerates the world.
