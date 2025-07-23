@@ -1,21 +1,54 @@
 # Beau (Raymond Buford Dunavant IV)
-- Building the IRIS Multi-Agent Framework  
-- Passionate about sustainable cities, regenerative design, and ethical AI
 
-## Tools & Skills
-- Python, Scikit-learn, TensorFlow
-- Jupyter, Streamlit, Pandas, Matplotlib
-- Git, GitHub, VS Code
-- Real Estate, Finance, Business, Urban Planning, Sustainability
+AI developer, systems thinker, and infrastructure futurist.  
+Currently building IRIS — a multi-agent framework designed to support resilient, regenerative cities through intelligent, decentralized planning.  
+My work blends machine learning, sustainability, finance, and ethics to reimagine how we live, build, and govern.
 
-## Projects
-🔹 [IRIS Multi-Agent Framework](https://github.com/Buford4/iris-agent-framework) – AI agents for sustainable infrastructure  
-🔹 [Recovery ML Model](#) – Forecasting addiction recovery outcomes  
-🔹 [Real Estate Market Tools](#) – Cap rate calculators, STR analysis, dashboards
+I believe in transparent technology, long-term thinking, and the power of open tools to reshape complex systems for the public good.
+
+---
+
+## Core Skills & Tools
+
+**Machine Learning & AI**  
+Python · Scikit-learn · TensorFlow · Time Series Forecasting · Multi-Agent Systems
+
+**Data Analytics & Visualization**  
+Pandas · Jupyter · Matplotlib · Streamlit · Prophet · SQL · Excel
+
+**Business & Financial Analysis**  
+Cap Rate Calculators · Cash Flow Models · Market Intelligence · Forecast Engines
+
+**Domain Knowledge**  
+Sustainable (Regenerative) Building Design and Construction · Real Estate · Off Grid Living · Ethical AI · Resilience Planning
+
+**Dev Tools**  
+Git · GitHub · VS Code
+
+---
+
+## Selected Projects
+
+### [IRIS Multi-Agent Framework](https://github.com/Buford4/iris-agent-framework)  
+> A modular AI system for municipal and regional planning. Designed to align food, water, energy, policy, and finance under a unified intelligence framework.
+
+### Recovery Outcomes Prediction Model  
+> A machine learning tool to forecast addiction treatment success using publicly available health data. Built to support better decision-making for social impact organizations.
+
+### Real Estate & Market Analytics Tools  
+> Cap rate calculators, STR profitability dashboards, and regional housing forecasts. Developed for real-world investment scenarios and policy planning.
+
+### Business & Financial Toolkits  
+> Custom models for scenario forecasting, margin analysis, and sustainability metrics for mission-driven ventures.
+
+---
 
 ## Connect
-- [LinkedIn](https://www.linkedin.com/in/beau-dunavant-iv)
-- [Email](mailto:beau.dun4@gmail.com)
-- [GitHub Portfolio](https://github.com/Buford4)
 
-> ⚡ Building tech that regenerates the world.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/beau-dunavant-iv)  
+- 📧 [Email](mailto:beau.dun4@gmail.com)  
+- 🧠 [GitHub](https://github.com/Buford4)
+
+---
+
+> *“Use the hammer before you design the hammer.” — Grandpa*
