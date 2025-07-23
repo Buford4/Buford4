@@ -5,27 +5,49 @@ _IRIS_Program_
 ---
 
 _Python 
+
 _Scikit-learn
+
 _TensorFlow
+
 _Time Series Forecasting
+
 _Multi-Agent Systems
+
 _Pandas
+
 _Jupyter
+
 _Matplotlib
+
 _Streamlit
+
 _Prophet
+
 _Cap Rate Calculators
+
 _Cash Flow Models
+
 _Market Intelligence
+
 _Forecast Engines 
+
 _Sustainable (Regenerative) Building Design and Construction
+
 _Real Estate
+
 _Off Grid Living
+
 _Ethical AI
+
 _Resilience Planning  
+
 _Git
+
 _GitHub
+
 _VS Code
+
 
 ---
 
