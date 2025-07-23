@@ -69,9 +69,9 @@ _VS Code
 
 ## Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/beau-dunavant-iv)  
-- 📧 [Email](mailto:beau.dun4@gmail.com)  
-- 🧠 [GitHub](https://github.com/Buford4)
+-  [LinkedIn](https://www.linkedin.com/in/beau-dunavant-iv)  
+-  [Email](mailto:beau.dun4@gmail.com)  
+-  [GitHub](https://github.com/Buford4)
 
 ---
 
