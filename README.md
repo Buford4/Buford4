@@ -1,4 +1,4 @@
-# Yo, I'm Beau (Raymond Buford Dunavant IV)
+# Beau (Raymond Buford Dunavant IV)
 - Building the IRIS Multi-Agent Framework  
 - Passionate about sustainable cities, regenerative design, and ethical AI
 
