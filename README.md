@@ -1,12 +1,8 @@
 # Beau (Raymond Buford Dunavant IV)
 
-AI developer, systems thinker, and infrastructure futurist.  
-
 Currently building IRIS — a multi-agent framework designed to support resilient, regenerative cities through intelligent, decentralized planning.  
 
 My work blends machine learning, sustainability, finance, and ethics to reimagine how we live, build, and govern.
-
-I believe in transparent technology, long-term thinking, and the power of open tools to reshape complex systems for the public good.
 
 ---
 
