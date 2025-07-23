@@ -4,49 +4,49 @@ _IRIS_Program_
 
 ---
 
-_Python 
+-> Python 
 
-_Scikit-learn
+-> Scikit-learn
 
-_TensorFlow
+>TensorFlow
 
-_Time Series Forecasting
+->Time Series Forecasting
 
-_Multi-Agent Systems
+-> Multi-Agent Systems
 
-_Pandas
+-> Pandas
 
-_Jupyter
+-> Jupyter
 
-_Matplotlib
+-> Matplotlib
 
-_Streamlit
+-> Streamlit
 
-_Prophet
+-> Prophet
 
-_Cap Rate Calculators
+-> Cap Rate Calculators
 
-_Cash Flow Models
+-> Cash Flow Models
 
-_Market Intelligence
+-> Market Intelligence
 
-_Forecast Engines 
+-> Forecast Engines 
 
-_Sustainable (Regenerative) Building Design and Construction
+-> Sustainable (Regenerative) Building Design and Construction
 
-_Real Estate
+-> Real Estate
 
-_Off Grid Living
+-> Off Grid Living
 
-_Ethical AI
+-> Ethical AI
 
-_Resilience Planning  
+-> Resilience Planning  
 
-_Git
+-> Git
 
-_GitHub
+-> GitHub
 
-_VS Code
+-> VS Code
 
 
 ---
