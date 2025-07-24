@@ -49,6 +49,7 @@ _IRIS_Program_
 
 -> VS Code
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-IRIS_Framework-blue?logo=github)](https://github.com/Buford4/iris-agent-framework)
 
 ---
 
