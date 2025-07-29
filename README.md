@@ -1,9 +1,14 @@
-###  Beau Dunavant // Systems Builder
+###  Raymond Buford "Beau" Dunavant IV
 
-Build tools for ClimateTech, PropTech, and Fintech.
+ClimateTech 
+
+PropTech 
+
+FinTech
 
 ## Current Work
-[![IRIS REPO](https://img.shields.io/badge/IRIS--REPO-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buford4/IRIS)  
+[![IRIS REPO](https://img.shields.io/badge/IRIS--REPO-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buford4/IRIS) 
+
 [![LUNA REPO](https://img.shields.io/badge/LUNA--REPO-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buford4/LUNA)
 ## Tools
 [![PYTHON DOCS](https://img.shields.io/badge/PYTHON--DOCS-black?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
