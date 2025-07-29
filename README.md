@@ -7,7 +7,7 @@ Build tools for climate tech, proptech, and fintech.
 
 [![LUNA](https://img.shields.io/badge/LUNA%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Buford4/LUNA)
 
-[![Python](https://img.shields.io/badge/Python-Website-black?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/PYTHON-DOCS-000000?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
 
 
 Systems-level thinking
