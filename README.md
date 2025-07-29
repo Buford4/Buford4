@@ -1,19 +1,19 @@
-##  Beau Dunavant // Builder of Systems 
+###  Beau Dunavant // Builder of Systems 
 
 Build tools for climate tech, proptech, and fintech.
 
-### Projects:
-- **[IRIS](https://github.com/Buford4/IRIS)** – A decentralized, multi-agent AI framework for municipal planning. Think city-scale simulation meets ethical automation — food, water, energy, policy, finance — all in sync.
-- **[LUNA](https://github.com/Buford4/LUNA)** – A real estate forecasting engine built for people who don't want to get screwed by the market. Cap rate analysis, STR dashboards, housing predictions — made for real investors and public planners.
 
-### Stack:
-Python, Scikit-learn, Pandas, Streamlit, Prophet, APIs (Zillow, CoinGecko, FRED), Git, Jupyter — whatever gets the job done fast and right.
+[![IRIS](https://img.shields.io/badge/IRIS%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Buford4/IRIS)
 
-### Ethos:
+[![LUNA](https://img.shields.io/badge/LUNA%20Repo-black?style=for-the-badge&logo=github)](https://github.com/Buford4/LUNA)
+
+[![Python](https://img.shields.io/badge/Python-Website-black?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+
 Systems-level thinking
 ---
 
-## Connect
+### Connect
 
 -  [LinkedIn](https://www.linkedin.com/in/beau-dunavant-iv)  
 -  [Email](mailto:beau.dun4@gmail.com)  
