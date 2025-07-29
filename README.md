@@ -54,19 +54,14 @@ VS Code
 
 ---
 
-## Selected Projects
+### Selected Projects
 
-### [IRIS Multi-Agent Framework](https://github.com/Buford4/iris-agent-framework)  
+[**IRIS**](https://github.com/Buford4/IRIS)  
 > A modular AI system for municipal and regional planning. Designed to align food, water, energy, policy, and finance under a unified intelligence framework.
 
-### Recovery Outcomes Prediction Model  
-> A machine learning tool to forecast addiction treatment success using publicly available health data. Built to support better decision-making for social impact organizations.
-
-### LUNA
+[**LUNA**](https://github.com/Buford4/LUNA)  
 > Cap rate calculators, STR profitability dashboards, and regional housing forecasts. Developed for real-world investment scenarios and policy planning.
 
-### Business & Financial Toolkits  
-> Custom models for scenario forecasting, margin analysis, and sustainability metrics for mission-driven ventures.
 
 ---
 
