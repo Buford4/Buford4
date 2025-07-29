@@ -1,7 +1,8 @@
 # Beau (Raymond Buford Dunavant IV)
 
 ## IRIS [![GitHub Repo](https://img.shields.io/badge/GitHub-IRIS-blue?logo=github)](https://github.com/Buford4/iris-agent-framework)
-## LUNA ##
+## LUNA [![GitHub Repo](https://img.shields.io/badge/GitHub-LUNA-black?logo=github)](https://github.com/Buford4/LUNA)
+
 
 ---
 ## Tools
@@ -50,7 +51,6 @@ GitHub
 
 VS Code
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-IRIS-blue?logo=github)](https://github.com/Buford4/iris-agent-framework)
 
 ---
 
@@ -62,7 +62,7 @@ VS Code
 ### Recovery Outcomes Prediction Model  
 > A machine learning tool to forecast addiction treatment success using publicly available health data. Built to support better decision-making for social impact organizations.
 
-### Real Estate & Market Analytics Tools  
+### LUNA
 > Cap rate calculators, STR profitability dashboards, and regional housing forecasts. Developed for real-world investment scenarios and policy planning.
 
 ### Business & Financial Toolkits  
