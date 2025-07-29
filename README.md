@@ -1,68 +1,16 @@
-# Beau.
+##  Beau Dunavant // Builder of Systems 
 
-## IRIS [![GitHub Repo](https://img.shields.io/badge/GitHub-IRIS-black?logo=github)](https://github.com/Buford4/iris-agent-framework)
-## LUNA [![GitHub Repo](https://img.shields.io/badge/GitHub-LUNA-black?logo=github)](https://github.com/Buford4/LUNA)
+Build tools for climate tech, proptech, and fintech.
 
+### Projects:
+- **[IRIS](https://github.com/Buford4/IRIS)** – A decentralized, multi-agent AI framework for municipal planning. Think city-scale simulation meets ethical automation — food, water, energy, policy, finance — all in sync.
+- **[LUNA](https://github.com/Buford4/LUNA)** – A real estate forecasting engine built for people who don't want to get screwed by the market. Cap rate analysis, STR dashboards, housing predictions — made for real investors and public planners.
 
----
-## Tools
+### Stack:
+Python, Scikit-learn, Pandas, Streamlit, Prophet, APIs (Zillow, CoinGecko, FRED), Git, Jupyter — whatever gets the job done fast and right.
 
-Python 
-
-Scikit-learn
-
-TensorFlow
-
-Time Series Forecasting
-
-Multi-Agent Systems
-
-Pandas
-
-Jupyter
-
-Matplotlib
-
-Streamlit
-
-Prophet
-
-Cap Rate Calculators
-
-Cash Flow Models
-
-Market Intelligence
-
-Forecast Engines 
-
-Sustainable (Regenerative) Building Design and Construction
-
-Real Estate
-
-Off Grid Living
-
-Ethical AI
-
-Resilience Planning  
-
-Git
-
-GitHub
-
-VS Code
-
-
----
-
-### Selected Projects
-
-[**IRIS**](https://github.com/Buford4/IRIS)  
-> A modular AI system for municipal and regional planning. Designed to align food, water, energy, policy, and finance under a unified intelligence framework.
-
-[**LUNA**](https://github.com/Buford4/LUNA)  
-> Cap rate calculators, STR profitability dashboards, and regional housing forecasts. Developed for real-world investment scenarios and policy planning.
-
-
+### Ethos:
+Systems-level thinking
 ---
 
 ## Connect
