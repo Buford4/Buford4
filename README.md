@@ -1,15 +1,15 @@
 ###  Raymond Buford "Beau" Dunavant IV
 
-ClimateTech 
+![ClimateTech](https://img.shields.io/badge/ClimateTech-black?style=for-the-badge)
 
-PropTech 
+![PropTech](https://img.shields.io/badge/PropTech-black?style=for-the-badge)
 
-FinTech
+![FinTech](https://img.shields.io/badge/FinTech-black?style=for-the-badge)
 
 ## Current Work
-[![IRIS REPO](https://img.shields.io/badge/IRIS--REPO-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buford4/IRIS) 
+[![IRIS](https://img.shields.io/badge/IRIS--REPO-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buford4/IRIS) 
 
-[![LUNA REPO](https://img.shields.io/badge/LUNA--REPO-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buford4/LUNA)
+[![LUNA](https://img.shields.io/badge/LUNA--REPO-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buford4/LUNA)
 ## Tools
 [![PYTHON DOCS](https://img.shields.io/badge/PYTHON--DOCS-black?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
 ## Connect
