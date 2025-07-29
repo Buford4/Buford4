@@ -1,4 +1,4 @@
-![My name is Beau.](https://img.shields.io/badge/My%20name%20is%20Beau.-black?style=for-the-badge)
+### BEAU
 
 ![I build systems and solutions that deal with scarcity.](https://img.shields.io/badge/I%20build%20systems%20and%20solutions%20that%20deal%20with%20scarcity.-black?style=for-the-badge)
 
