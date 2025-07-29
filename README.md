@@ -5,49 +5,49 @@ _IRIS_Program_
 ---
 ## Tools
 
--> Python 
+Python 
 
--> Scikit-learn
+Scikit-learn
 
--> TensorFlow
+TensorFlow
 
--> Time Series Forecasting
+Time Series Forecasting
 
--> Multi-Agent Systems
+Multi-Agent Systems
 
--> Pandas
+Pandas
 
--> Jupyter
+Jupyter
 
--> Matplotlib
+Matplotlib
 
--> Streamlit
+Streamlit
 
--> Prophet
+Prophet
 
--> Cap Rate Calculators
+Cap Rate Calculators
 
--> Cash Flow Models
+Cash Flow Models
 
--> Market Intelligence
+Market Intelligence
 
--> Forecast Engines 
+Forecast Engines 
 
--> Sustainable (Regenerative) Building Design and Construction
+Sustainable (Regenerative) Building Design and Construction
 
--> Real Estate
+Real Estate
 
--> Off Grid Living
+Off Grid Living
 
--> Ethical AI
+Ethical AI
 
--> Resilience Planning  
+Resilience Planning  
 
--> Git
+Git
 
--> GitHub
+GitHub
 
--> VS Code
+VS Code
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-IRIS_Framework-blue?logo=github)](https://github.com/Buford4/iris-agent-framework)
 
