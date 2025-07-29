@@ -1,4 +1,5 @@
-###  Raymond Buford "Beau" Dunavant IV
+### My name is Beau. 
+I build systems and solutions that deal with scarcity.
 
 ![ClimateTech](https://img.shields.io/badge/ClimateTech-black?style=for-the-badge)
 
