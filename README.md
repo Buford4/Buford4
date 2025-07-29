@@ -1,4 +1,4 @@
-# Beau (Raymond Buford Dunavant IV)
+# Beau.
 
 ## IRIS [![GitHub Repo](https://img.shields.io/badge/GitHub-IRIS-black?logo=github)](https://github.com/Buford4/iris-agent-framework)
 ## LUNA [![GitHub Repo](https://img.shields.io/badge/GitHub-LUNA-black?logo=github)](https://github.com/Buford4/LUNA)
