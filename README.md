@@ -1,6 +1,39 @@
 ### My name is Beau. 
 I build systems and solutions that deal with scarcity.
 
+
+I believe there’s a whole hell of a lot to say about simplicity.
+
+
+Slow, deliberate solutions yield real results.
+
+
+For 15 years, my career centered around natural building, 
+
+sustainable design, autonomous (off-the-grid) structures, 
+
+and real estate.
+
+
+Now, I do the same work, but with technology.
+
+
+I still carry the same curiosity I had when I was young.
+
+
+I have not hope, but faith in humanity.
+
+
+My home is powered by the sun, 
+
+my water comes from the sky, 
+
+and is built with earth and reclaimed materials.
+
+
+There are natural cycles that govern life, love, and liberty.
+
+
 ![ClimateTech](https://img.shields.io/badge/ClimateTech-black?style=for-the-badge)
 
 ![PropTech](https://img.shields.io/badge/PropTech-black?style=for-the-badge)
