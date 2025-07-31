@@ -38,7 +38,8 @@
 
 [![LUNA](https://img.shields.io/badge/LUNA--REPO-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buford4/LUNA)
 
-[![PYTHON DOCS](https://img.shields.io/badge/PYTHON--DOCS-black?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
+### TOOL
+[![PYTHON](https://img.shields.io/badge/PYTHON--DOCS-black?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
 ### TALK
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN--black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beau-dunavant-iv)  
 [![GitHub](https://img.shields.io/badge/GITHUB---black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buford4)
